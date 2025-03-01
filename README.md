@@ -46,8 +46,8 @@ Each pattern directory in this repository contains:
 Clone this repository and explore each pattern's directory to understand its implementation:
 
 ```bash
-git clone https://github.com/yourusername/java-design-patterns.git
-cd java-design-patterns
+git clone https://github.com/NerdSeat/DesignPatterns.git
+cd DesignPatterns
 ```
 
 ## References
