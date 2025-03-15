@@ -11,4 +11,4 @@ The Singleton Pattern is a creational design pattern that ensures a class has on
 In short, the pattern ensures that:-
 - Only one instance exists
 - The instance is globally accessible
-- The instance is created __only__ when first needed
+- The instance is created _only_ when first needed
